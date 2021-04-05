@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'chela-tacotech-nodered'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ac9f315e705440a89950b14ed8fd8c91 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3a3e33f5577543e8b30a93bc57302d68 }}
         package: .
